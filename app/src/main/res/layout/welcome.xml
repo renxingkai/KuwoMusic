@@ -7,13 +7,13 @@
     <ImageView
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
-        android:src="@drawable/welcome"
+        android:src="@drawable/welcome03"
         android:scaleType="fitXY"/>
 
     <Button
         android:id="@+id/btnStart"
-        android:layout_width="99dp"
-        android:layout_height="37dp"
+        android:layout_width="65dp"
+        android:layout_height="35dp"
         android:layout_gravity="center_horizontal|top"
         android:layout_marginLeft="50pt"
         android:layout_marginTop="16pt"
@@ -22,7 +22,7 @@
         android:shadowDx="5"
         android:shadowDy="5"
         android:shadowRadius="1"
-        android:text="跳过广告"
+        android:text="跳过"
         android:textSize="8pt" />
 
 </FrameLayout>
